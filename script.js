@@ -1,5 +1,5 @@
 let random = function() {
- return Math.floor(Math.random() * 100)
+ return Math.floor(Math.random() * 151)
 }
 let pokeImg = document.querySelector(".poke-img")
 let forms = document.querySelectorAll(".poke-form")
