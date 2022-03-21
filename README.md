@@ -6,3 +6,7 @@ The game where you get six chances to guess a Pokemon. Type in your answer in th
 PLAY:
 
 Fork and clone repo then open index.html in the browser.
+
+TECHNOLOGIES: 
+
+HTML, CSS, JavaScript
